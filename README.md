@@ -54,3 +54,4 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=traseox)](https://github.com/traseox/github-readme)
