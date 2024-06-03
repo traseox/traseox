@@ -4,14 +4,13 @@
   A passionate Frontend Developer from EU <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/033/178/282/large_2x/eu-icon-vector.jpg" alt="EU Flag" width="25" />
 </h3>
 
-🔭 I’m currently working on **FVR Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
-
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif">
+
+🔭 I’m currently working on **FVR Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **Next js by doing Project**
 
 🔎 I’m looking to collaborate on **Open source Project**
-
 
 💬 Ask me about **Frontend Development**
 
