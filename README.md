@@ -1,4 +1,4 @@
-
+<img align="right" alt="Coding" width="400" src="https://github.com/traseox/traseox/blob/main/banner.png">
 
 <h3 align='center'>
   A passionate Frontend Developer from EU <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/033/178/282/large_2x/eu-icon-vector.jpg" alt="EU Flag" width="25" />
