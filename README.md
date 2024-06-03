@@ -6,11 +6,6 @@
   A passionate Frontend Developer from EU <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/033/178/282/large_2x/eu-icon-vector.jpg" alt="EU Flag" width="25" />
 </h3>
 
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
-
 🔭 I’m currently working on **FVR Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **Next js by doing Project**
