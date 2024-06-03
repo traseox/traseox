@@ -7,6 +7,7 @@
 🔭 I’m currently working on **FVR Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **Next js by doing Project**
+<img align="right" alt="Coding" width="200" src="https://octodex.github.com/images/yaktocat.png">
 
 🔎 I’m looking to collaborate on **Open source Project**
 
@@ -14,7 +15,7 @@
 
 💗 Love to talk about **Research and Innovation!**
 
-<img align="right" alt="Coding" width="200" src="https://octodex.github.com/images/yaktocat.png">
+
 
 
 ## 🔰 Let's Connect:
@@ -53,6 +54,6 @@
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-<img align="right" alt="Coding" width="200" src="https://octodex.github.com/images/yaktocat.png">
+
 
 
