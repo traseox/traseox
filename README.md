@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://github.com/traseox/traseox/blob/main/banner.png">
+<img align="center" alt="Coding" width="100%" src="https://github.com/traseox/traseox/blob/main/banner.png">
 
 <h3 align='center'>
   A passionate Frontend Developer from EU <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/033/178/282/large_2x/eu-icon-vector.jpg" alt="EU Flag" width="25" />
@@ -52,4 +52,4 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=traseox)](https://github.com/traseox/github-readme)
+
