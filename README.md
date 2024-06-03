@@ -53,4 +53,4 @@
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-
+[![wakatime](https://wakatime.com/badge/user/018ee288-1460-4c6d-b82c-eefff6723465.svg)](https://wakatime.com/@018ee288-1460-4c6d-b82c-eefff6723465)
