@@ -7,7 +7,6 @@
 🔭 I’m currently working on **FVR Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **Next js by doing Project**
-<img align="right" alt="Coding" width="200" src="https://octodex.github.com/images/yaktocat.png">
 
 🔎 I’m looking to collaborate on **Open source Project**
 
