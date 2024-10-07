@@ -16,15 +16,7 @@
 
 💗 Love to talk about **Research and Innovation!**
 
-<p align="center">
-   <a href="https://wakatime.com/@traseox">
-   <img 
-      src="https://wakatime.com/badge/user/f3854d81-a8a0-45b2-8208-3b4aa43562db.svg"
-      alt="WakaTime Stats"
-      /img>
-   </a>
-</p>
-
+<a href="https://wakatime.com/@018ee288-1460-4c6d-b82c-eefff6723465"><img src="https://wakatime.com/badge/user/018ee288-1460-4c6d-b82c-eefff6723465.svg" alt="Total time coded since Apr 15 2024" /></a>
 
 
 
