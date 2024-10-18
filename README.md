@@ -16,7 +16,7 @@
 
 💗 Love to talk about **Research and Innovation!**
 
-<a href="https://wakatime.com/@018ee288-1460-4c6d-b82c-eefff6723465"><img src="https://wakatime.com/badge/user/018ee288-1460-4c6d-b82c-eefff6723465.svg" alt="Total time coded since Apr 15 2024" /></a>
+
 
 
 
