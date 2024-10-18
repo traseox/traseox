@@ -5,6 +5,7 @@
   A passionate Frontend Developer from EU <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/033/178/282/large_2x/eu-icon-vector.jpg" alt="EU Flag" width="25" />
 </h3>
 
+<img style="vertical-align: bottom" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyMzk0ODksIm5iZiI6MTcyOTIzOTE4OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE4VDA4MTMwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3MDkwYTJkYTE3YWMwMjYxMGFjOTkyYmMwOTNhZjgxMWEzNTE0MzAyZmFlMDBjMmUwZjg2N2Q2YzNiZmU5ODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Dnh0hEpKyrrmdQklj6o5_ZC_G9KYCBl3bKs9co5MDdk" alt="molecular" width="100" />
 
 🔭 I’m currently working on **FVR Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
