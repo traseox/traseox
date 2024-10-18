@@ -1,4 +1,4 @@
-<body style="backgrond-color: white">
+
 <img align="center" alt="Coding" width="100%" src="https://github.com/traseox/traseox/blob/main/banner.png">
 
 <h3 align='center'>
@@ -43,5 +43,5 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
-</body>
+
 
